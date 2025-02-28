@@ -1,0 +1,12 @@
+[
+    {
+        "rel_url" : "customer_churn_dataset-testing-master/customer_churn_dataset-testing-master.csv",
+        "dir_name" : "Test",
+        "file_name" : "customer_churn_dataset-testing-master.csv"
+    },
+    {
+        "rel_url" : "customer_churn_dataset-training-master/customer_churn_dataset-training-master.csv",
+        "dir_name" : "Train",
+        "file_name" : "customer_churn_dataset-training-master.csv"
+    }
+]
